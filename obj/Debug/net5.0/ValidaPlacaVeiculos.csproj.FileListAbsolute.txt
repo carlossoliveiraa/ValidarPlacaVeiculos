@@ -1,0 +1,16 @@
+C:\Projetos\ValidaPlacaVeiculos\ValidaPlacaVeiculos\bin\Debug\net5.0\ValidaPlacaVeiculos.exe
+C:\Projetos\ValidaPlacaVeiculos\ValidaPlacaVeiculos\bin\Debug\net5.0\ValidaPlacaVeiculos.deps.json
+C:\Projetos\ValidaPlacaVeiculos\ValidaPlacaVeiculos\bin\Debug\net5.0\ValidaPlacaVeiculos.runtimeconfig.json
+C:\Projetos\ValidaPlacaVeiculos\ValidaPlacaVeiculos\bin\Debug\net5.0\ValidaPlacaVeiculos.runtimeconfig.dev.json
+C:\Projetos\ValidaPlacaVeiculos\ValidaPlacaVeiculos\bin\Debug\net5.0\ValidaPlacaVeiculos.dll
+C:\Projetos\ValidaPlacaVeiculos\ValidaPlacaVeiculos\bin\Debug\net5.0\ValidaPlacaVeiculos.pdb
+C:\Projetos\ValidaPlacaVeiculos\ValidaPlacaVeiculos\obj\Debug\net5.0\ValidaPlacaVeiculos.csproj.AssemblyReference.cache
+C:\Projetos\ValidaPlacaVeiculos\ValidaPlacaVeiculos\obj\Debug\net5.0\ValidaPlacaVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ValidaPlacaVeiculos\ValidaPlacaVeiculos\obj\Debug\net5.0\ValidaPlacaVeiculos.AssemblyInfoInputs.cache
+C:\Projetos\ValidaPlacaVeiculos\ValidaPlacaVeiculos\obj\Debug\net5.0\ValidaPlacaVeiculos.AssemblyInfo.cs
+C:\Projetos\ValidaPlacaVeiculos\ValidaPlacaVeiculos\obj\Debug\net5.0\ValidaPlacaVeiculos.csproj.CoreCompileInputs.cache
+C:\Projetos\ValidaPlacaVeiculos\ValidaPlacaVeiculos\obj\Debug\net5.0\ValidaPlacaVeiculos.dll
+C:\Projetos\ValidaPlacaVeiculos\ValidaPlacaVeiculos\obj\Debug\net5.0\refint\ValidaPlacaVeiculos.dll
+C:\Projetos\ValidaPlacaVeiculos\ValidaPlacaVeiculos\obj\Debug\net5.0\ValidaPlacaVeiculos.pdb
+C:\Projetos\ValidaPlacaVeiculos\ValidaPlacaVeiculos\obj\Debug\net5.0\ValidaPlacaVeiculos.genruntimeconfig.cache
+C:\Projetos\ValidaPlacaVeiculos\ValidaPlacaVeiculos\obj\Debug\net5.0\ref\ValidaPlacaVeiculos.dll
